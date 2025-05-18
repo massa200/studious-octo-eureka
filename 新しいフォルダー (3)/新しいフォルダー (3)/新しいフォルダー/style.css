@@ -1,0 +1,47 @@
+#title{
+    color: gray;
+    font-size: 80px;
+    text-align: center;}
+#説明{
+    font-size: 50px;}
+#説明①{
+    font-size: 30px;}
+#矢印{
+    font-size: 60px;}
+#A{
+    width: 50%;}
+#wait{
+    background: rgb(118, 118, 255);
+    font-size: 60px;
+    border-bottom: solid 2px black;
+    border-top: solid 2px black;   
+    border-left: solid 2px black;
+    border-right: solid 2px black;  
+    color: rgb(128, 177, 124);}
+#引く{
+    background: rgb(120, 120, 122);
+    font-size: 60px;
+    border-bottom: solid 2px black;
+    border-top: solid 2px black;   
+    border-left: solid 2px black;
+    border-right: solid 2px black; 
+    font-size: 50px;}
+#reset{
+    background: rgb(120, 120, 122);
+    font-size: 60px;
+    border-bottom: solid 2px black;
+    border-top: solid 2px black;   
+    border-left: solid 2px black;
+    border-right: solid 2px black; 
+    font-size: 50px;}
+#空白{
+    font-size: 70px;}
+#引く2{
+    background: rgb(199, 199, 200);
+    font-size: 60px;
+    border-bottom: solid 2px black;
+    border-top: solid 2px black;
+    border-left: solid 2px black;
+    border-right: solid 2px black; 
+    text-align: center;
+    font-size: 30px;}
