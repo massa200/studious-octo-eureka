@@ -1,47 +1,47 @@
+
 #title{
     color: gray;
     font-size: 80px;
     text-align: center;}
 #説明{
+    text-align: center;
     font-size: 50px;}
 #説明①{
+    text-align: center;
     font-size: 30px;}
 #矢印{
+    text-align: center;
     font-size: 60px;}
 #A{
     width: 50%;}
 #wait{
-    background: rgb(118, 118, 255);
-    font-size: 60px;
-    border-bottom: solid 2px black;
-    border-top: solid 2px black;   
-    border-left: solid 2px black;
-    border-right: solid 2px black;  
-    color: rgb(128, 177, 124);}
+    background: rgb(118, 255, 166);
+    font-size: 0px; 
+    color: rgb(52, 52, 52);}
 #引く{
-    background: rgb(120, 120, 122);
+    background: rgb(94,255, 115);
     font-size: 60px;
-    border-bottom: solid 2px black;
-    border-top: solid 2px black;   
-    border-left: solid 2px black;
-    border-right: solid 2px black; 
     font-size: 50px;}
 #reset{
-    background: rgb(120, 120, 122);
+    background: rgb(94, 255, 115);
     font-size: 60px;
-    border-bottom: solid 2px black;
-    border-top: solid 2px black;   
-    border-left: solid 2px black;
-    border-right: solid 2px black; 
     font-size: 50px;}
 #空白{
     font-size: 70px;}
 #引く2{
-    background: rgb(199, 199, 200);
+    background: rgb(187, 187, 187);
     font-size: 60px;
-    border-bottom: solid 2px black;
-    border-top: solid 2px black;
-    border-left: solid 2px black;
-    border-right: solid 2px black; 
     text-align: center;
     font-size: 30px;}
+#説明②{
+    text-align: center;}
+#説明③{
+text-align: center;}
+#矢印①{
+    text-align: center;}
+#矢印②{
+    text-align: center;}
+#結果{
+    font-size: 60px;}
+#point{
+    font-size: 0px;}
