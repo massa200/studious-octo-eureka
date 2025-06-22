@@ -1,8 +1,9 @@
-
 #title{
     color: gray;
     font-size: 80px;
-    text-align: center;}
+    text-align: center;
+background-color: rgb(214, 243, 250);
+border-bottom: solid 5px rgb(186, 193, 205);}
 #説明{
     text-align: center;
     font-size: 50px;}
@@ -11,7 +12,7 @@
     font-size: 30px;}
 #矢印{
     text-align: center;
-    font-size: 60px;}
+    font-size: 30px;}
 #A{
     width: 50%;}
 #wait{
@@ -19,20 +20,20 @@
     font-size: 0px; 
     color: rgb(52, 52, 52);}
 #引く{
-    background: rgb(94,255, 115);
+    background: rgb(228, 235, 164);
     font-size: 60px;
     font-size: 50px;}
 #reset{
-    background: rgb(94, 255, 115);
-    font-size: 60px;
+    background: rgb(228, 235, 164);
     font-size: 50px;}
 #空白{
-    font-size: 70px;}
+    font-size: 73px;}
 #引く2{
     background: rgb(187, 187, 187);
-    font-size: 60px;
+    font-size: 50px;
     text-align: center;
-    font-size: 30px;}
+    border-bottom: solid 10px rgb(140, 139, 139);
+    border-top: solid 10px rgb(140, 139, 139);}
 #説明②{
     text-align: center;}
 #説明③{
@@ -42,7 +43,18 @@ text-align: center;}
 #矢印②{
     text-align: center;}
 #結果{
+    color: white;
     font-size: 60px;
-background-color: rgb(171, 95, 41);}
+    background-color: rgb(171, 95, 41);}
 #point{
     font-size: 0px;}
+#hiku{
+    font-size: 0px;}
+#結果3{background-color: rgb(171, 95, 41);
+       font-size: 60px;
+       color: white;}
+#引く3{
+    font-size: 50px;
+    background-color: rgb(215, 213, 209);}
+body{
+    background-color: rgb(245, 254, 247);}
